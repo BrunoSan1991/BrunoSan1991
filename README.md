@@ -2,7 +2,7 @@
 ![ClipWindowsGIF](https://user-images.githubusercontent.com/87622979/162648764-4d2b303b-503e-4e73-bf5e-98a2f7fbf0eb.gif)
 
 
-- 🔭 Trabalhando com Web Full Stack
+- 🔭 Estudando Web Full Stack
 - 🌱 Estudando Analise e Desenvolvimentos de Sistemas
 - 💬 Contate-me no e-mail: bsan.designgrafico@gmail.com
 
