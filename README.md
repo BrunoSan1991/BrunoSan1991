@@ -1,10 +1,10 @@
-### Olá eu sou o BrunoSan1991 👋
+### hello i'm the BrunoSan1991 👋
 ![ClipWindowsGIF](https://user-images.githubusercontent.com/87622979/162648764-4d2b303b-503e-4e73-bf5e-98a2f7fbf0eb.gif)
 
 
-- 🔭 Estudando Web Full Stack
-- 🌱 Estudando Analise e Desenvolvimentos de Sistemas
-- 💬 Contate-me no e-mail: bsan.designgrafico@gmail.com
+- 🔭 Studying Web Full Stack
+- 🌱 Studying Systems Analysis and Development
+- 💬 Contact me on email: bsan.designgrafico@gmail.com
 
 <div align="center">
   <a href="https://github.com/BrunoSan1991">
