@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio de programação! Aqui você encontrará uma seleç�
 
 ## Projetos
 
-### Projeto 1: [https://github.com/BrunoSan1991/salary-control]
+### Projeto 1: [salary-control]
 
 Descrição: My code will identify the product with an expiry date and its quantity.
 
