@@ -4,17 +4,17 @@ Bem-vindo ao meu portfólio de programação! Aqui você encontrará uma seleç�
 
 ## Projetos
 
-### Projeto 1: [Nome do Projeto]
+### Projeto 1: [https://github.com/BrunoSan1991/salary-control]
 
-Descrição: Breve descrição do projeto, suas funcionalidades e tecnologias utilizadas.
+Descrição: My code will identify the product with an expiry date and its quantity.
 
-Link: Inclua aqui o link para o projeto hospedado ou para o repositório correspondente.
+Link: https://github.com/BrunoSan1991/salary-control
 
-### Projeto 2: [Nome do Projeto]
+### Projeto 2: [Escolha-o-nome-para-seu-PET]
 
-Descrição: Breve descrição do projeto, suas funcionalidades e tecnologias utilizadas.
+Descrição: Esse projeto se trata de um consumo de API do chatGPT para escolher o nome ideal para seu PET, ou seja, você pode colocar o tipo de pet no campo de input e a API ira busca o melhor nome para seu pet referente as informações que o usuário colocar no campo.
 
-Link: Inclua aqui o link para o projeto hospedado ou para o repositório correspondente.
+Link: https://github.com/BrunoSan1991/Escolha-o-nome-para-seu-PET
 
 ## Experiências e Habilidades
 
