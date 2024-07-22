@@ -39,6 +39,6 @@ Link: https://github.com/BrunoSan1991/Escolha-o-nome-para-seu-PET
 Se você estiver interessado em discutir oportunidades de colaboração ou quiser saber mais sobre meu trabalho, sinta-se à vontade para entrar em contato comigo.
 
 - Email: [bsan.designgrafico@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/bsanperfil/]
+- LinkedIn: [https://www.linkedin.com/in/bruno-ant%C3%B4nio-sanches-509923317/]
 
 
